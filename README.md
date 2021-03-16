@@ -1,8 +1,15 @@
 # VietCalendar
 
+Lịch âm trên Menubar cho macOS
+
 Vietnamese Calendar for macOS
 
-Đây là phần mềm chia sẻ miễn phí (không rõ tác giả). 
+<p align="center">
+  <img src="https://github.com/neikxd/VietCalendar/blob/main/images/2021.03.16.png" width="600" />
+</p>
+
+
+Phần mềm được chia sẻ miễn phí (không rõ tác giả). 
 Mình chỉnh sửa giao diện, icons cho phù hợp với các phiên bản macOS khác nhau.
 
 English: 
