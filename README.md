@@ -47,7 +47,7 @@ If you want to run it on startup (login)
 
 ### 2021.03.16
 
-- Fixed button visibility on dark mode
+- Fixed button invisibility on dark mode
 - Changed app icon
 
 ---
