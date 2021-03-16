@@ -25,7 +25,7 @@ Have it and enjoy!
 Cài đặt tự động chạy khi khởi động
 
 - System Preferences > Users & Groups > [tài khoản] > Login Items
-- Thêm `VietCalendar` vào danh sách
+- Thêm `VietCalendar.app` vào danh sách
 
 
 ## Installation (English)
@@ -38,7 +38,7 @@ Cài đặt tự động chạy khi khởi động
 If you want to run it on startup (login)
 
 - System Preferences > Users & Groups > [Your Account] > Login Items
-- Add `VietCalendar` to the list
+- Add `VietCalendar.app` to the list
 
 
 ---
