@@ -2,7 +2,7 @@
 
 Vietnamese Calendar for macOS
 
-This shared software.
+This is shared software.
 
 I made a modified, cleaned version for it works on current macOS and functioning well.
 
