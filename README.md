@@ -2,12 +2,12 @@
 
 Vietnamese Calendar for macOS
 
-Đây là phần mềm chia sẻ miễn phí (không rõ tác giả)
+Đây là phần mềm chia sẻ miễn phí (không rõ tác giả). 
 Mình chỉnh sửa giao diện, icons cho phù hợp với các phiên bản macOS khác nhau.
 
-English:
-This is shared software.
-I made a modified, cleaned version for it works on current macOS and functioning well.
+English: 
+This is shared software. 
+I made a modified, cleaned version for it works on current macOS and well functioning.
 
 
 Have it and enjoy!
