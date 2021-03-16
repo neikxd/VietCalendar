@@ -1,5 +1,9 @@
 # VietCalendar
 
+
+[![All Releases](https://img.shields.io/github/downloads/neikxd/VietCalendar/total.svg)]()
+
+
 Lịch âm trên Menubar cho macOS
 
 Vietnamese Calendar for macOS
@@ -58,8 +62,4 @@ If you want to run it on startup (login)
 - Changed app icon
 
 ---
-
-## Download count
-
-[![All Releases](https://img.shields.io/github/downloads/neikxd/VietCalendar/total.svg)]()
 
